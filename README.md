@@ -1,2 +1,13 @@
-# Password-Manager
-This is a simple Password Manager application built using C#. It allows users to store, retrieve, update, and delete passwords for different applications securely. The passwords are encrypted before being saved to a file, ensuring that they are stored safely.
+# Password Manager (C#)
+
+A simple password manager built with C# to securely store, retrieve, update, and delete passwords. The passwords are encrypted before being stored in a local file.
+
+## Features
+
+- **Store and manage passwords** for different applications.
+- **Encrypt and decrypt passwords** using a custom cipher.
+- **Basic operations**:
+  - List all saved passwords.
+  - Add or change a password.
+  - Retrieve a password.
+  - Delete a password.
